@@ -1,0 +1,1 @@
+[{"mIsUsb":0,"mIsUserInput":1,"mServerId":1,"mServerName":"F_IPTV1","mServerUrl":"https://raw.githubusercontent.com/popking159/F_IPTV/master/iptv1.m3u"},{"mIsUsb":0,"mIsUserInput":1,"mServerId":2,"mServerName":"F_IPTV2","mServerUrl":"https://raw.githubusercontent.com/popking159/F_IPTV/master/iptv2.m3u"}]
